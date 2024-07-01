@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618397768484",
+    "project_id": "videopal-c7bdd",
+    "storage_bucket": "videopal-c7bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618397768484:android:5c9c836e29be5b6985b1b1",
+        "android_client_info": {
+          "package_name": "com.example.videopal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CJsNnslYRwE1Bh0ql3dZulX0syxRd10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

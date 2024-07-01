@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618397768484",
+    "project_id": "videopal-c7bdd",
+    "storage_bucket": "videopal-c7bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618397768484:android:5c9c836e29be5b6985b1b1",
+        "android_client_info": {
+          "package_name": "com.example.videopal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618397768484-u58ofa3m2esqhp67nu2227sqdf37ed6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videopal",
+            "certificate_hash": "1130fed36a933b9232da846d1e22ae26a23d7872"
+          }
+        },
+        {
+          "client_id": "618397768484-9c76grtb46apgd3u0vuq99kei3brmg13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CJsNnslYRwE1Bh0ql3dZulX0syxRd10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618397768484-9c76grtb46apgd3u0vuq99kei3brmg13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
