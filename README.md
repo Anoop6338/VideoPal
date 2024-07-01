@@ -1,7 +1,7 @@
 # VideoPal 📹  
 
 📲 **Download VideoPal Now!**
-[Link](https://drive.google.com/file/d/1wq7i0NQeeuGlbKwlqB0DGNGJBUucfZBH/view?usp=sharing)
+[Link](https://drive.google.com/drive/folders/1Sui9VgBRUI449AnCktajHQk3j8-VgArl?usp=sharing)
 
 **VideoPal** is an innovative Android application that allows users to engage in random video calling with strangers. This platform fosters spontaneous and exciting connections, enabling users to have live video conversations with people from around the globe.
 
